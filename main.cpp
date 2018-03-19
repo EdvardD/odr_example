@@ -1,8 +1,8 @@
+#include "lib.h"
 #include "lib2.h"
-#include "lib3.h"
 
 int main() {
+  f();
   g();
-  h();
   return 0;
 }
